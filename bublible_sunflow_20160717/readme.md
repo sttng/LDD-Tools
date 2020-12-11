@@ -1,1 +1,4 @@
 A modded version of Bluerender (aka Bluerender0006)
+
+`shasum -a 512 bublible_sunflow_20160717-win.zip 
+115dac2836454d3dfc4b2b16b6b187dde62e2a0784b9df75ad1f62904bfd56ef3c59bb99d7e6311884f2c92b9963c635d6bcb169b7d6591d3878011441d5322a  bublible_sunflow_20160717-win.zip`
