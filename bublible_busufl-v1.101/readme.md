@@ -1,3 +1,7 @@
+`shasum -a 512 bublible_busufl.zip 
+08a6303b412741906e019010c9746e6f100dbdd579b900a27973540e2c2c1d39f1bc46360e5c237c76c2e61fdf63eee01bf87aab13b5567acdca9b7922777d58  bublible_busufl.zip`
+
+
 ## 2017-10-13 - v1.101 
 
 * NEW: when moved positions of both Main and Render window are saved so they'll re-open at their respective last spot 
