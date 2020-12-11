@@ -1,1 +1,4 @@
 Bluerender0005
+
+`shasum -a 512 Bluerender0005.zip 
+1b4dcb77cb65a8b9eeee3e5c5b283f879560a9c459d8c4967c2b7f8584205e58c1d271558de029f94cae06d4b5a289b1db0438c1a5e3e1c4f8de6b73dae1c6db  Bluerender0005.zip`
